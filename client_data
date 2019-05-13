@@ -1,0 +1,11 @@
+    {
+      "server": "107.174.229.110",
+      "server_port": 15972,
+      "password": "z2coija3sd*&.12",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    }
