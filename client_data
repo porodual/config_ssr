@@ -1,7 +1,7 @@
     {
-      "server": "107.174.229.110",
-      "server_port": 15972,
-      "password": "z2coija3sd*&.12",
+      "server": "139.59.73.78",
+      "server_port": 8899,
+      "password": "123123",
       "method": "aes-256-cfb",
       "plugin": "",
       "plugin_opts": "",
